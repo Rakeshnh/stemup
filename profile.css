@@ -1,0 +1,23 @@
+.a{
+    border-style: solid;
+    margin: 120px 380px 20px 380px;
+    height: 390px;
+    text-align: center;
+        background-color: bisque;
+
+}
+.b{
+    border-style: solid;
+    margin: 20px 160px 20px 160px;
+    height: 200px;
+    border-radius: 100%;
+    background-image: url(x.png);
+    background-size: 100%;
+    
+
+
+}
+h1{
+    font-size: medium;
+    color: chocolate;
+}
